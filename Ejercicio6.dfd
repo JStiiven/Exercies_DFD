@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+"Ingrese el valor de la compra"
+5
+1
+5
+costo
+7
+0
+1
+12
+costo >= 100
+4
+1
+31
+"Usted no obtiene un descuento"
+13
+6
+1
+10
+porcentage
+11
+costo * 0.1
+4
+1
+75
+"Su costo total de la compra con un descuesnto del 10% es de: ", porcentage
+13
+1

@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+"Ingrese el primer lado"
+5
+1
+5
+lado1
+4
+1
+25
+"Ingrese el segundo lado"
+5
+1
+5
+lado2
+4
+1
+24
+"Ingrese el tercer lado"
+5
+1
+5
+lado3
+7
+0
+1
+31
+lado1 = lado2 and lado1 = lado3
+7
+0
+1
+47
+lado1 = lado2 or lado2 = lado3 or lado1 = lado3
+4
+1
+26
+"El triángulo es escaleno"
+13
+4
+1
+26
+"El triángulo es isóceles"
+13
+13
+4
+1
+28
+"El triangulo es equilátero"
+13
+1
